@@ -23,3 +23,15 @@ Aplikasi latihan untuk ...
 Nama panggilan / akun GitHub: I Kadek Agus Mertha Kusuma / [Username GitHub-mu]
 ## Status
 Proyek awal perkuliahan.
+
+## Tujuan
+Membantu pengguna melacak aktivitas olahraga mereka.
+
+## Rencana Fitur
+1. Pelacakan Aktivitas dengan GPS
+2. Jejaring Sosial Olahraga
+3. Tantangan Bulanan
+
+## Cara Menjalankan
+flutter pub get
+flutter run
