@@ -1,0 +1,9 @@
+# Analisis Aplikasi Pertemuan 1
+
+- **Aplikasi yang diamati:** (Nama aplikasi, misalnya: Gojek / Instagram)
+- **Pengguna utama:** (Siapa yang menggunakan aplikasi ini)
+- **Tiga fitur utama:**
+  1. Fitur 1...
+  2. Fitur 2...
+  3. Fitur 3...
+- **Satu usulan perbaikan:** (Ide perbaikan dari kamu)
